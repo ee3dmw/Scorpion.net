@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ScorpionFramework</id>
+    <version>1.0.0</version>
+    <title>ScorpionFramework</title>
+    <authors>Dan Williams</authors>
+    <owners></owners>
+    <licenseUrl>http://licenseUrl</licenseUrl>
+    <projectUrl>http://licenseUrl</projectUrl>
+    <iconUrl>http://licenseUrl</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Scorpions</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags></tags>
+  </metadata>
+</package>
